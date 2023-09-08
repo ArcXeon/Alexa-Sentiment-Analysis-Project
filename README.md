@@ -1,5 +1,5 @@
 # Alexa-Sentiment-Analysis-Project
-This is a project on performing Sentiment Analysis on Amazon Alexa Reviews.  
+This is a project on performing Sentiment Analysis on Amazon Alexa Reviews using NLP.  
 The working of the code is explained as follows:  
   
 1.Data Loading and Exploration: The code starts by loading the data from a CSV file into a Pandas DataFrame. It then checks for null values and prints the value counts for the rating, variation, and feedback columns. It also generates countplots for these columns using the Seaborn library.  
