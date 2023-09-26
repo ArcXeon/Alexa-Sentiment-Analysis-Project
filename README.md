@@ -1,4 +1,4 @@
-# Alexa-Sentiment-Analysis
+# Alexa-Reviews-Sentiment-Analysis
 This is a project on performing Sentiment Analysis on Amazon Alexa Reviews using NLP.  
 The working of the code is explained as follows:  
   
